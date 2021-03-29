@@ -15,8 +15,8 @@ int main()
 
     while(i<=n)
     {
-      sum=sum+i;   //complete the missing code
-      i++;   //complete the missing code
+     sum=sum+i;//complete the missing code
+    i++;    //complete the missing code
     }
 
     std::cout <<sum;
